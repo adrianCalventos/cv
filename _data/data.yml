@@ -7,43 +7,38 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Adrian Calvetos
+    tagline: Backend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: adriancalventosgarcia@gmail..com
+    phone: 548 551 525
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    linkedin: adriancalventos
+    github: adrianCalventos
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@adriancalventos'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Inglés
+        level: Intermedio
 
-      - idiom: French
-        level: Professional
+      - idiom: Catalán
+        level: Nativo
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Castellano
+        level: Nativo
 
     interests:
-      - item: Climbing
+      - item: videojuegos
         link:
 
-      - item: Snowboarding
+      - item: literatura fantastica
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
