@@ -12,7 +12,7 @@ sidebar:
     ##avatar: https://avatars.githubusercontent.com/u/29986450?s=460&u=9b86c6375213513d9576f64cdd8f05c08e76bfe7&v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adriancalventosgarcia@gmail..com
+    email: adriancalventosgarcia@gmail.com
     phone: 648 551 525
     linkedin: adriancalventos
     github: adrianCalventos
@@ -162,23 +162,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 20%
 
       - name: Javascript & jQuery
         level: 98%
 
       - name: Angular
-        level: 98%
+        level: 30%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Java
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Spring
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: node
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
