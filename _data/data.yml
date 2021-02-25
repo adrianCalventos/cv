@@ -9,17 +9,17 @@ sidebar:
     # Profile information
     name: Adrian Calvetos
     tagline: Backend Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adriancalventosgarcia@gmail..com
-    phone: 548 551 525
-    website: blog.webjeda.com #do not add http://
+    email: adriancalventosgarcia@gmail.com
+    phone: 648 551 525
+    #website: blog.webjeda.com #do not add http://
     linkedin: adriancalventos
     github: adrianCalventos
     bitbucket:
-    twitter: '@adriancalventos'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #twitter: '@adriancalventos'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
@@ -160,14 +160,14 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Tecnologias &amp; competencias
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 15%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Js & TS
+        level: 50%
 
       - name: Angular
         level: 98%
@@ -175,10 +175,13 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Java
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Spring
+        level: 60%
+
+      - name: Hibernate
         level: 60%
 
 footer: >
