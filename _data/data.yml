@@ -22,7 +22,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
-    languages:
+    Lenguajes:
       - idiom: Inglés
         level: Intermedio
 
@@ -41,7 +41,7 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Perfil
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -164,23 +164,23 @@ skills:
 
     toolset:
       - name: Python
-        level: 15%
+        level: 20%
 
       - name: Js & TS
         level: 50%
 
       - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
+        level: 30%
 
       - name: Java
-        level: 85%
+        level: 70%
 
       - name: Spring
-        level: 60%
+        level: 50%
 
+      - name: node
+        level: 10%
+        
       - name: Hibernate
         level: 60%
 
