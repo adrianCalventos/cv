@@ -22,7 +22,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
-    Lenguajes:
+    languages:
       - idiom: Inglés
         level: Intermedio
 
@@ -42,36 +42,33 @@ sidebar:
 
 career-profile:
     title: Perfil
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Graudado en Ciencias Ambientales por la Universitat Autònoma de Barcelon y programador. Mi experiencia multidisciplinar en el ámbito del medio ambiente me 
+    prepara para asumir puestos que requieran una visión transversal de una empresa u entidad en su relación con el medio ambiente.
+    Mi experiencia como programador me permite asumir tareas de desarrollo de aplicaciones y servicios
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Grado en Ciencias Ambientales
+      university: Universidad Autònoma de Barcelona
+      time: 2011 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
+       Grado multidisciplinar donde se estudian asignaturas tales como la física nuclear, la quimica, la edafologia, geologia, estadística, economia o derecho, siempre enfocadas 
+       en el cuidado y defensa del medio ambiente. 
+          - Física
+          - Estadística
+          - Matemáticas
+          - Derecho
+    - degree: Grado superior en Desarrollo de aplicaciones multiplataforma
       university: Bristol University
-      time: 2007 - 2011
+      time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Estudios enfocados en el desarrollo y mantenimiento de aplicaciones. Se desarrollaron apps en Android, páginas web y aplicaciones de escritorio. Los estudios tenian como objetivo
+        formar a desarrolladores en las bases de la programación.
+          - Oracle SQL
+          - MongoDB
+          - Curso de introducción SAP
+          - Laravel
+          - Ionic
+          - Android Developer
+          - C
 experiences:
     - role: Lead Developer
       time: 2015 - Present
