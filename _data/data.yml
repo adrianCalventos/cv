@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Adrian Calvetos Garcia
+    name: Adrian Calventos Garcia
     tagline: Backend Developer
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -80,8 +80,8 @@ experiences:
           - Java
           - jsp
     - role: Backend developer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2018 - 2020
+      company: Vincle
       details: |
         Desarrollo de microservicios para un CRM del sector hipermercados. 
           - Java
@@ -89,6 +89,7 @@ experiences:
           - Hibernate
           - Sql Server
           - Javascript / Typescript
+          - Angular
           - jQuery
           - Seguimiento con Agile
     - role: UI Developer
@@ -109,16 +110,16 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Docker con API-Rest y CI/CD
+        link: "https://github.com/adrianCalventos/dockerizeApiRest"
+        tagline: "Docker con una API-Rest con NodeJs para el Backend, BBDD MongoDB y react para el frontend"
 
-      - title: DevStudio
+      - title: Blog en laravel
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Proyecto de PHP con framework laravel creado para "
 
-      - title: Tempo
-        link: "#"
+      - title: API-Rest Sencilla
+        link: "https://github.com/adrianCalventos/apiRest-with-node-express"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
@@ -175,6 +176,9 @@ skills:
         
       - name: Hibernate
         level: 60%
+
+      - name: Docker
+       level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
