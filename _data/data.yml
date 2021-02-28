@@ -46,12 +46,24 @@ sidebar:
 career-profile:
     title: Perfil
     summary:  |
-      Graudado en Ciencias Ambientales por la Universitat Autònoma de Barcelon y programador. Mi experiencia multidisciplinar en el ámbito del medio ambiente me 
+      Graudado en Ciencias Ambientales por la Universitat Autònoma de Barcelona y programador. Mi experiencia multidisciplinar en el ámbito del medio ambiente me 
       prepara para asumir puestos que requieran una visión transversal de una empresa u entidad en su relación con el medio ambiente.
-      Mi experiencia como programador me permite asumir tareas de desarrollo de aplicaciones y servicios.
+      Mi experiencia como programador me permite asumir tareas de desarrollo de aplicaciones y servicios. 
+      Tengo facilidad para entender los negocios que se ven involucrados en las soluciones que se van a aplicar y me adapto rapidamente a las tecnologias y metodologias aplicadas en mi puesto.
 education:
+
+    - degree: Ingenieria Informática
+      university: Universitat Oberta de Cataluny
+      time: 2019 - Actual
+      details: |
+       Estudios compaginados con el desempeño de mi trabajo como programador. El objetivo de estos estudios es fortalecerme como programador, alcanzar puestos de mayor responsabilidad
+       y tener una visión más amplia del proceso de desarrollo de software. 
+          - Programación en ensamblador
+          - Lógica
+          - Ingenieria del software
+
     - degree: Grado en Ciencias Ambientales
-      university: Universidad Autònoma de Barcelona
+      university: Universitat Autònoma de Barcelona
       time: 2011 - 2015
       details: |
        Grado multidisciplinar donde se estudian asignaturas tales como la física nuclear, la quimica, la edafologia, geologia, estadística, economia o derecho, siempre enfocadas 
@@ -61,7 +73,7 @@ education:
           - Matemáticas
           - Derecho
     - degree: Grado superior en Desarrollo de aplicaciones multiplataforma
-      university: Bristol University
+      university: Institut Sabadell
       time: 2016 - 2018
       details: |
         Estudios enfocados en el desarrollo y mantenimiento de aplicaciones. Se desarrollaron apps en Android, páginas web y aplicaciones de escritorio. Los estudios tenian como objetivo
