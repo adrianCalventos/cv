@@ -38,6 +38,9 @@ sidebar:
 
       - item: literatura fantastica
         link:
+      
+      - item: literatura fantastica
+        link:
 
 
 career-profile:
@@ -94,6 +97,7 @@ experiences:
           - jQuery
           - Seguimiento con Agile
           - Redmine
+
     - role: Practicas programación
       time: octubre 2017 - marzo 2018
       company: Binsa Software
@@ -106,6 +110,14 @@ experiences:
           - SQL Server
           - Windows Forms
 
+    - role: Técnico de medio ambiente
+      time: octubre 2016 - mayo 2017
+      company: Ayuntamiento de Sabadell
+      details: |
+        Labores de soporte a técnicos superiores, como modificación de planos en AutoCAD, el análisis de consumos energéticos del ayuntamiento a través del software de gestión
+        Gemweb, pruebas de iluminación con mediciones de lumens, supervisión en obras de renovación de iluminación y redacción de informes sobre ahorro en edicios públicos.
+          - AutoCAD
+          - Gemweb
 
 projects:
     title: Proyectos
@@ -177,6 +189,12 @@ skills:
         level: 60%
 
       - name: Docker
+        level: 20%
+      
+      - name: Oracle Sql
+        level: 70%
+            
+      - name: MongoDB
         level: 20%
 
 footer: >
