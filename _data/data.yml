@@ -147,7 +147,7 @@ projects:
 
       - title: API-Rest Sencilla
         link: "https://github.com/adrianCalventos/apiRest-with-node-express"
-        tagline: "App de libros que consiste en una API-Rest con un endpoint en node y un"
+        tagline: "App de libros que consiste en una API-Rest."
 
       - title: Aplicacion en Spring Boot
         link: "https://github.com/adrianCalventos/spring-bookApiRest-"
