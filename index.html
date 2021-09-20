@@ -2,14 +2,27 @@
 layout: default
 ---
 
-{% include career-profile.html %}
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
 
-{% include experiences.html %}
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="{% t site.description %}"/>
+    <meta name="keywords" content="{% t site.keywords %}"/>
+    <title>{% t site.name %} - {% t site.tagline %}</title>
+</head>
+<body>
+  {% include career-profile.html %}
 
-{% include projects.html %}
-
-{% include skills.html %}
+  {% unless site.data.data.sidebar.education %}
+    {% include education.html %}
+  {% endunless %}
+  
+  {% include experiences.html %}
+  
+  {% include projects.html %}
+  
+  {% include skills.html %}
+</body>
+</html>
