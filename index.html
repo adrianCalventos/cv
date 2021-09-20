@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
@@ -13,6 +8,10 @@ layout: default
     <title>{% t site.name %} - {% t site.tagline %}</title>
 </head>
 <body>
+  ---
+layout: default
+---
+
   {% include career-profile.html %}
 
   {% unless site.data.data.sidebar.education %}
