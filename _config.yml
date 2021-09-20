@@ -4,6 +4,13 @@
 title: Curriculum Vitae
 
 description: A beautiful Jekyll theme for creating resume
+
+languages: ["en", "es"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: es
+languageNames:
+  es: Spanish
+  en: English
  
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
