@@ -1,0 +1,11 @@
+languages: 
+- language: "en" links: 
+- title: "About" url: /about/ 
+- title: "Archives" url: /archives/ 
+- title: "GitHub" url: https://github.com/minac 
+- title: "es" url: /es/ 
+- language: "es" links: 
+- title: "Sobre" url: /sobre/ 
+- title: "Arquivos" url: /arquivos/ 
+- title: "GitHub" url: https://github.com/minac 
+- title: "en" url: /
