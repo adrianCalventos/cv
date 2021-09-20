@@ -7,6 +7,7 @@ description: A beautiful Jekyll theme for creating resume
  
 languages: ["en", "es"]
 exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: es
 languageNames:
   es: Spanish
   en: English
