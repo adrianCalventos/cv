@@ -1,15 +1,6 @@
 {% assign career-profile = site.data.data.career-profile %}
 {% if career-profile %}
 
-<a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
-{% for lang in site.languageNames %}
-{% if lang[0] == site.lang %} {% continue %} {% endif %}
-{% if page.namespace %}
-<a href="">{{ lang[1] }}</a>
-{% else %}
-<a href="">{{ lang[1] }}</a>
-{% endif %}
-{% endfor %}
 <section class="section summary-section">
 
   <h2 class="section-title">

@@ -8,6 +8,16 @@
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 {% include head.html %}
 
+<a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
+{% for lang in site.languageNames %}
+{% if lang[0] == site.lang %} {% continue %} {% endif %}
+{% if page.namespace %}
+<a href="">{{ lang[1] }}</a>
+{% else %}
+<a href="">{{ lang[1] }}</a>
+{% endif %}
+{% endfor %}
+
 <body>
   <div class="wrapper">
     {% include sidebar.html %}
