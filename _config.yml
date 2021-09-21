@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 description: A beautiful Jekyll theme for creating resume
 
-languages: ["en", "es"]
+lang: en
 
  
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
