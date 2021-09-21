@@ -1,8 +1,8 @@
-in:
+en:
   label: English
   icon: 🇬🇧
   read_it_in: "Read it in"
-it is:
-  label: Spanish
+es:
+  label: Español
   icon: 🇪🇸
-  read_it_in: "Read it on"
+  read_it_in: "Léelo en"
