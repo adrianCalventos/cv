@@ -19,6 +19,10 @@
 
 {% include scripts.html %}
 
+{% for lang in site.languages %}
+  <p>{% tl about {{ lang }} %}</p>
+{% endfor %}
+
 </body>
 
 

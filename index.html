@@ -14,7 +14,6 @@ layout: default
 
 {% include skills.html %}
 
-{{ site.lang }}
-
-
-{{ site.baseurl_root }}
+{% for lang in site.languages %}
+  <p>{% tl about {{ lang }} %}</p>
+{% endfor %}
