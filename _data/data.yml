@@ -64,16 +64,6 @@ education:
           - Lógica
           - Ingenieria del software
 
-    - degree: Grado en Ciencias Ambientales
-      university: Universitat Autònoma de Barcelona
-      time: 2011 - 2015
-      details: |
-       Grado multidisciplinar donde se estudian asignaturas tales como la física nuclear, la quimica, la edafologia, geologia, estadística, economia o derecho, siempre enfocadas 
-       en el cuidado y defensa del medio ambiente. 
-          - Física
-          - Estadística
-          - Matemáticas
-          - Derecho
     - degree: Grado superior en Desarrollo de aplicaciones multiplataforma
       university: Institut Sabadell
       time: 2016 - 2018
@@ -87,6 +77,18 @@ education:
           - Ionic
           - Android Developer
           - C
+          
+    - degree: Grado en Ciencias Ambientales
+      university: Universitat Autònoma de Barcelona
+      time: 2011 - 2015
+      details: |
+       Grado multidisciplinar donde se estudian asignaturas tales como la física nuclear, la quimica, la edafologia, geologia, estadística, economia o derecho, siempre enfocadas 
+       en el cuidado y defensa del medio ambiente. 
+          - Física
+          - Estadística
+          - Matemáticas
+          - Derecho
+
 experiences:
     - role: Backend developer
       time:  diciembre 2020 - Actual
