@@ -94,8 +94,10 @@ experiences:
       details: |
         Desarrollo de microservicios y sistemas medios para cliente final Caixa. Uso de arquitectura ABSIS con componentes en Java.
           - Oracle SQL
+          - DB2
           - Java
           - jsp
+          - Weblogic
     - role: Backend developer
       time: septiembre 2018 -  julio 2020
       company: Vincle
